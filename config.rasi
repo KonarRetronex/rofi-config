@@ -12,9 +12,10 @@
     fgp-color: #888888FF;       /* Grey placeholders */
     
     /* The "Fire" Theme Adaptation */
-    wbg-color: #000000d2;       /* Black background (Transparent) */
+    wbg-color: #000000bb;       /* Black background (Transparent) */
     w-border-color: #ff0000FF;  /* FIRE RED Border (Matches Hyprland) */
     
+
     /* Selection Style */
     hl-color: #440000ff;        /* Dark Blue background for selection */
     hlt-color: #ff8800FF;       /* Orange Text for selection */
