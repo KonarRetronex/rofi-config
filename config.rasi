@@ -52,7 +52,10 @@ window {
 
 prompt {
     text-color: @fg-color;
+    padding: 0px 12px;
+    min-width: 32px;
 }
+
 
 inputbar {
     children: ["prompt", "entry"];
